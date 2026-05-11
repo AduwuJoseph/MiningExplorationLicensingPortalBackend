@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExplorationLicensingPortalBackend.Application/1.0.0": {
+        "dependencies": {
+          "ExplorationLicensingPortalBackend.Domain": "1.0.0",
+          "ExplorationLicensingPortalBackend.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ExplorationLicensingPortalBackend.Application.dll": {}
+        }
+      },
+      "ExplorationLicensingPortalBackend.Domain/1.0.0": {
+        "runtime": {
+          "ExplorationLicensingPortalBackend.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ExplorationLicensingPortalBackend.Shared/1.0.0": {
+        "runtime": {
+          "ExplorationLicensingPortalBackend.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExplorationLicensingPortalBackend.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExplorationLicensingPortalBackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExplorationLicensingPortalBackend.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

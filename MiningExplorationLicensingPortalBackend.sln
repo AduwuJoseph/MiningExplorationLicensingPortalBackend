@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorationLicensingPortalBackend.API", "ExplorationLicensingPortalBackend.API\ExplorationLicensingPortalBackend.API.csproj", "{A8D21354-934A-4F05-9331-4D169FD10736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorationLicensingPortalBackend.Application", "ExplorationLicensingPortalBackend.Application\ExplorationLicensingPortalBackend.Application.csproj", "{3886F530-733C-40F9-ACDD-B7AD4891420C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorationLicensingPortalBackend.Domain", "ExplorationLicensingPortalBackend.Domain\ExplorationLicensingPortalBackend.Domain.csproj", "{71B6DC89-467D-4DB2-8A79-55F093A9224D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorationLicensingPortalBackend.Shared", "ExplorationLicensingPortalBackend.Shared\ExplorationLicensingPortalBackend.Shared.csproj", "{33E2BD93-041B-48FA-B12E-BA403F75B5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorationLicensingPortalBackend.Infrastructure", "ExplorationLicensingPortalBackend.Infrastructure\ExplorationLicensingPortalBackend.Infrastructure.csproj", "{000A8FA3-56C0-456C-89E2-C23DE934B8D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8D21354-934A-4F05-9331-4D169FD10736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D21354-934A-4F05-9331-4D169FD10736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D21354-934A-4F05-9331-4D169FD10736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D21354-934A-4F05-9331-4D169FD10736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3886F530-733C-40F9-ACDD-B7AD4891420C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3886F530-733C-40F9-ACDD-B7AD4891420C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3886F530-733C-40F9-ACDD-B7AD4891420C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3886F530-733C-40F9-ACDD-B7AD4891420C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B6DC89-467D-4DB2-8A79-55F093A9224D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B6DC89-467D-4DB2-8A79-55F093A9224D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B6DC89-467D-4DB2-8A79-55F093A9224D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B6DC89-467D-4DB2-8A79-55F093A9224D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E2BD93-041B-48FA-B12E-BA403F75B5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E2BD93-041B-48FA-B12E-BA403F75B5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E2BD93-041B-48FA-B12E-BA403F75B5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E2BD93-041B-48FA-B12E-BA403F75B5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000A8FA3-56C0-456C-89E2-C23DE934B8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000A8FA3-56C0-456C-89E2-C23DE934B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000A8FA3-56C0-456C-89E2-C23DE934B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000A8FA3-56C0-456C-89E2-C23DE934B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBBF5883-3443-43D8-AE25-590935BFF917}
+	EndGlobalSection
+EndGlobal
